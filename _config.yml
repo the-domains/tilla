@@ -1,0 +1,28 @@
+name: tilla
+favicon: null
+layout_spectrum: 0.8751670927740633
+typography_spectrum: 0.9396775627974421
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7744982612784952
+  lightness: 0.5242802838329226
+  saturation: 0.3246961405966431
+  rhythmicContrast: 0.2389412249904126
+purpose: []
